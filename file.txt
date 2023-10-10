@@ -1,1 +1,11 @@
 master1hot8
+dev2
+dev3
+dev4
+dev7
+2fet12
+2fet13
+release15
+release16
+release20
+release22
